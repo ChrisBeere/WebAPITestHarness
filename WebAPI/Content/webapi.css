@@ -1,0 +1,21 @@
+﻿.people-container {
+    margin-top:50px;
+}
+
+.people-list-container {
+    margin-top:20px;
+}
+
+.select-button {
+    background-color:white;
+    color:black;
+    width:130px;
+    height:30px;
+    border:solid 2px black;
+    border-radius:3px;
+    margin:20px;
+}
+
+.select-button:hover {
+    cursor:pointer;
+}
